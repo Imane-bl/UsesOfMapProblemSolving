@@ -5,7 +5,7 @@ let ib="Elz123er4o";//elimnate numbers
 
 
 1//
-// we sholde return array thats why we use split
+// we should return array thats why we use split
 //and the join for join our caracthere
 // the idea that if the elment is capital we ruturn  element in lower case
 // else  in uppercase
